@@ -1,0 +1,2170 @@
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    background-color: black;
+    
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+.morales{
+   margin-top: 50px;
+    position: relative;
+   z-index: 99;
+   width: 1em;
+   height: 1em; 
+   zoom: 50%;
+   box-shadow:0em 1em #F42221,
+            1em 1em #F42221,
+            2em 1em #F42221,
+            3em 1em #F42221,
+            4em 1em #F42221,
+            5em 1em #F42221,
+            6em 1em #F42221,
+            7em 1em #F42221,
+            8em 1em #F42221,
+            9em 1em #F42221,
+
+             -4em 2em #F42221,
+             -3em 2em #F42221,
+             -2em 2em #F42221,
+             -1em 2em #F42221,
+              0em 2em #F42221,
+              1em 2em #F42221,
+              2em 2em #F42221,
+              3em 2em #F42221,
+              4em 2em #F42221,
+              5em 2em #F42221,
+              6em 2em #F42221,
+              7em 2em #F42221,
+              8em 2em #F42221,
+              9em 2em #F42221,
+              10em 2em #F42221,
+              11em 2em #F42221,
+
+              -6em 3em #F42221,
+              -5em 3em #F42221,
+              -4em 3em #F42221,
+              -3em 3em #F42221,
+              -2em 3em #F42221,
+              -1em 3em #F42221,
+               0em 3em #F42221,
+               1em 3em #F42221,
+               2em 3em #F42221,
+               3em 3em #F42221,
+               4em 3em #F42221,
+               5em 3em #F42221,
+               6em 3em #F42221,
+               7em 3em #F42221,
+
+               8em 3em #484848,
+               9em 3em #484848,
+               10em 3em #484848,
+               11em 3em #484848,
+
+               12em 3em #F42221,
+
+               -7em 4em #F42221,
+               -6em 4em #F42221,
+               -5em 4em #F42221,
+               -4em 4em #F42221,
+               -3em 4em #F42221,
+               -2em 4em #F42221,
+               -1em 4em #F42221,
+                0em 4em #F42221,
+                1em 4em #F42221,
+                2em 4em #F42221,
+                3em 4em #F42221,
+                4em 4em #F42221,
+                5em 4em #F42221,
+                6em 4em #F42221,
+
+                7em 4em #484848,
+                8em 4em #484848,
+                9em 4em #484848,
+                10em 4em #484848,
+                11em 4em #484848,
+                12em 4em #484848,
+
+                -8em 5em #F42221,
+                -7em 5em #F42221,
+                -6em 5em #F42221,
+                -5em 5em #F42221,
+                -4em 5em #F42221,
+                -3em 5em #F42221,
+                -2em 5em #F42221,
+                -1em 5em #F42221,
+                 0em 5em #F42221,
+                 1em 5em #F42221,
+                 2em 5em #F42221,
+                 3em 5em #F42221,
+                 4em 5em #F42221,
+                 5em 5em #F42221,
+                 
+
+                 6em 5em #484848,
+                 7em 5em #484848,
+                 8em 5em #484848,
+                 9em 5em #484848,
+                 10em 5em #484848,
+                 11em 5em #484848,
+                 12em 5em #484848,
+
+                 -8em 6em #F42221,
+                 -7em 6em #F42221,
+                 -6em 6em #F42221,
+                 -5em 6em #F42221,
+                 -4em 6em #F42221,
+                 -3em 6em #F42221,
+                 -2em 6em #F42221,
+                 -1em 6em #F42221,
+                  0em 6em #F42221,
+                  1em 6em #F42221,
+                  2em 6em #F42221,
+                  3em 6em #F42221,
+                  4em 6em #F42221,
+
+                  5em 6em #CA1A18,
+
+                  6em 6em #F42221,
+
+                  7em 6em #484848,
+                  8em 6em #484848,
+                  9em 6em #484848,
+                  10em 6em #484848,
+                  11em 6em #484848,
+                  12em 6em #484848,
+                  13em 6em #484848,
+
+                  -9em 7em #F42221,
+                  -8em 7em #F42221,
+                  -7em 7em #F42221,
+                  -6em 7em #F42221,
+                  -5em 7em #F42221,
+                  -4em 7em #F42221,
+                  -3em 7em #F42221,
+                  -2em 7em #F42221,
+                  -1em 7em #F42221,
+                   0em 7em #F42221,
+                   1em 7em #F42221,
+                   2em 7em #F42221,
+                   3em 7em #F42221,
+
+                   4em 7em #CA1A18,
+
+                   5em 7em #E7E7E7,
+                   6em 7em #E7E7E7,
+
+                   7em 7em #F42221,
+
+                   8em 7em #484848,
+                   9em 7em #484848,
+                   10em 7em #484848,
+                   11em 7em #484848,
+                   12em 7em #484848,
+                   13em 7em #484848,
+
+
+                   -10em 8em #F42221,
+                    -9em 8em #F42221,
+                    -8em 8em #F42221,
+                    -7em 8em #F42221,
+                    -6em 8em #F42221,
+                    -5em 8em #F42221,
+                    -4em 8em #F42221,
+                    -3em 8em #F42221,
+                    -2em 8em #F42221,
+                    -1em 8em #F42221,
+                     0em 8em #F42221,
+                     1em 8em #F42221,
+
+                     2em 8em #CA1A18,
+                     3em 8em #CA1A18,
+
+                     4em 8em #A9A9A9,
+
+                     5em 8em #E7E7E7,
+                     6em 8em #E7E7E7,
+                     7em 8em #E7E7E7,
+
+                     8em 8em #F42221,
+                     
+                     
+                     9em 8em #484848,
+                     10em 8em #484848,
+                     11em 8em #484848,
+                     12em 8em #484848,
+
+                     13em 8em #F42221,
+
+                     14em 8em #E7E7E7,
+
+                     -10em 9em #CA1A18,
+
+                     -9em 9em #F42221,
+                     -8em 9em #F42221,
+                     -7em 9em #F42221,
+                     -6em 9em #F42221,
+                     -5em 9em #F42221,
+                     -4em 9em #F42221,
+                     -3em 9em #F42221,
+                     -2em 9em #F42221,
+                     -1em 9em #F42221,
+                      0em 9em #F42221,
+
+                      1em 9em #CA1A18,
+                      2em 9em #CA1A18,
+                      3em 9em #CA1A18,
+
+                      4em 9em #A9A9A9,
+
+                      5em 9em #E7E7E7,
+                      6em 9em #E7E7E7,
+                      7em 9em #E7E7E7,
+                      8em 9em #E7E7E7,
+
+                      9em 9em #F42221,
+
+                      10em 9em #484848,
+                      11em 9em #484848,
+                      12em 9em #484848,
+
+                      13em 9em #CA1A18,
+
+                      14em 9em #E7E7E7,
+
+                      -10em 10em #CA1A18,
+                      -9em 10em #CA1A18,
+                      -8em 10em #CA1A18,
+
+                      -7em 10em #F42221,
+                      -6em 10em #F42221,
+                      -5em 10em #F42221,
+                      -4em 10em #F42221,
+                      -3em 10em #F42221,
+
+                      -2em 10em #CA1A18,
+                      -1em 10em #CA1A18,
+                       0em 10em #CA1A18,
+                       1em 10em #CA1A18,
+                       2em 10em #CA1A18,
+
+                       3em 10em #A9A9A9,
+                       4em 10em #A9A9A9,
+                       5em 10em #A9A9A9,
+
+                       6em 10em #E7E7E7,
+                       7em 10em #E7E7E7,
+                       8em 10em #E7E7E7,
+
+                       9em 10em #CA1A18,
+
+                       10em 10em #484848,
+                       11em 10em #484848,
+                       12em 10em #484848,
+
+                       13em 10em #CA1A18,
+                       14em 10em #A9A9A9,
+
+                       -10em 11em #CA1A18,
+                       -9em 11em #CA1A18,
+                       -8em 11em #CA1A18,
+                       -7em 11em #CA1A18,
+                       -6em 11em #CA1A18,
+                       -5em 11em #CA1A18,
+                       -4em 11em #CA1A18,
+                       -3em 11em #CA1A18,
+                       -2em 11em #CA1A18,
+                       -1em 11em #CA1A18,
+                        0em 11em #CA1A18,
+                        1em 11em #CA1A18,
+                        2em 11em #CA1A18,
+
+                        3em 11em #F42221,
+                        
+                        4em 11em #A9A9A9,
+                        5em 11em #A9A9A9,
+                        6em 11em #A9A9A9,
+
+                        7em 11em #E7E7E7,
+                        8em 11em #E7E7E7,
+                        9em 11em #E7E7E7,
+
+                        10em 11em #CA1A18,
+                        
+                        11em 11em #484848,
+
+                        12em 11em #F42221,
+
+                        13em 11em #A9A9A9,
+                        14em 11em #A9A9A9,
+
+                        -10em 12em #CA1A18,
+                        -9em 12em #CA1A18,
+                        -8em 12em #CA1A18,
+                        -7em 12em #CA1A18,
+                        -6em 12em #CA1A18,
+                        -5em 12em #CA1A18,
+                        -4em 12em #CA1A18,
+                        -3em 12em #CA1A18,
+                        -2em 12em #CA1A18,
+                        -1em 12em #CA1A18,
+                         0em 12em #CA1A18,
+                         1em 12em #CA1A18,
+                         2em 12em #CA1A18,
+
+                         3em 12em #484848,
+
+                         4em 12em #CA1A18,
+
+                         5em 12em #A9A9A9,
+                         6em 12em #A9A9A9,
+                         7em 12em #A9A9A9,
+                         8em 12em #A9A9A9,
+
+                         9em 12em #CA1A18,
+                         10em 12em #CA1A18,
+
+                         11em 12em #484848,
+                         12em 12em #484848,
+
+                         13em 12em #CA1A18,
+                         14em 12em #CA1A18,
+
+
+                         -9em 13em #CA1A18,
+                         -8em 13em #CA1A18,
+                         -7em 13em #CA1A18,
+                         -6em 13em #CA1A18,
+                         -5em 13em #CA1A18,
+                         -4em 13em #CA1A18,
+                         -3em 13em #CA1A18,
+                         -2em 13em #CA1A18,
+                         -1em 13em #CA1A18,
+                          0em 13em #CA1A18,
+                          1em 13em #CA1A18,
+                          2em 13em #CA1A18,
+
+                          3em 13em #484848,
+                          4em 13em #484848,
+
+                          5em 13em #CA1A18,
+                          6em 13em #CA1A18,
+                          7em 13em #CA1A18,
+                          8em 13em #CA1A18,
+
+                          9em 13em #484848,
+                          10em 13em #484848,
+                          11em 13em #484848,
+                          12em 13em #484848,
+                          13em 13em #484848,
+                          14em 13em #484848,
+
+                          -7em 14em #CA1A18,
+                          -6em 14em #CA1A18,
+                          -5em 14em #CA1A18,
+                          -6em 14em #CA1A18,
+                          -5em 14em #CA1A18,
+                          -4em 14em #CA1A18,
+                          -3em 14em #CA1A18,
+                          -2em 14em #CA1A18,
+                          -1em 14em #CA1A18,
+                           0em 14em #CA1A18,
+                           1em 14em #CA1A18,
+                           2em 14em #CA1A18,
+
+                           3em 14em #484848,
+                           4em 14em #484848,
+                           5em 14em #484848,
+                           6em 14em #484848,
+                           7em 14em #484848,
+                           8em 14em #484848,
+                           9em 14em #484848,
+                           10em 14em #484848,
+                           11em 14em #484848,
+                           12em 14em #484848,
+                           13em 14em #484848,
+                           14em 14em #484848,
+
+
+                           -6em 15em #CA1A18,
+                           -5em 15em #CA1A18,
+                           -4em 15em #CA1A18,
+                           -3em 15em #CA1A18,
+                           -2em 15em #CA1A18,
+                           -1em 15em #CA1A18,
+                            0em 15em #CA1A18,
+                            1em 15em #CA1A18,
+
+                            2em 15em #484848,
+                            3em 15em #484848,
+                            4em 15em #484848,
+                            5em 15em #484848,
+                            6em 15em #484848,
+                            7em 15em #484848,
+                            8em 15em #484848,
+                            9em 15em #484848,
+                            10em 15em #484848,
+                            11em 15em #484848,
+                            12em 15em #484848,
+                            13em 15em #484848,
+                            14em 15em #484848,
+
+
+                            -5em 16em #CA1A18,
+                            -4em 16em #CA1A18,
+                            -3em 16em #CA1A18,
+                            -2em 16em #CA1A18,
+                            -1em 16em #CA1A18,
+                             0em 16em #CA1A18,
+                             1em 16em #CA1A18,
+
+                             2em 16em #484848,
+                             3em 16em #484848,
+                             4em 16em #484848,
+                             5em 16em #484848,
+                             6em 16em #484848,
+                             7em 16em #484848,
+                             8em 16em #484848,
+                             9em 16em #484848,
+                             10em 16em #484848,
+                             11em 16em #484848,
+                             12em 16em #484848,
+                             13em 16em #484848,
+                             14em 16em #484848,
+
+                             -3em 17em #CA1A18,
+                             -2em 17em #CA1A18,
+                             -1em 17em #CA1A18,
+                              0em 17em #CA1A18,
+                              1em 17em #CA1A18,
+                              2em 17em #CA1A18,
+
+                              3em 17em #2F2F2F,
+
+                              4em 17em #484848,
+                              5em 17em #484848,
+                              6em 17em #484848,
+                              7em 17em #484848,
+                              8em 17em #484848,
+                              9em 17em #484848,
+                              10em 17em #484848,
+                              11em 17em #484848,
+                              12em 17em #484848,
+                              13em 17em #484848,
+                              
+                              -2em 18em #CA1A18,
+                              -1em 18em #CA1A18,
+
+                              0em 18em #566575,
+                              1em 18em #566575,
+                              2em 18em #566575,
+                              3em 18em #566575,
+
+                              4em 18em #2F2F2F,
+                              5em 18em #2F2F2F,
+
+                              6em 18em #484848,
+                              7em 18em #484848,
+                              8em 18em #484848,
+                              9em 18em #484848,
+                              10em 18em #484848,
+                              11em 18em #484848,
+                              12em 18em #484848,
+                              13em 18em #484848,
+
+                              14em 18em #566575,
+
+
+                              -2em 19em #566575,
+                              -1em 19em #566575,
+                               0em 19em #566575,
+                               1em 19em #566575,
+
+                               2em 19em #405061,
+
+                               3em 19em #566575,
+                               4em 19em #566575,
+
+                               5em 19em #2F2F2F,
+                               6em 19em #2F2F2F,
+                               7em 19em #2F2F2F,
+
+                               8em 19em #484848,
+                               9em 19em #484848,
+                               10em 19em #484848,
+                               11em 19em #484848,
+                               12em 19em #484848,
+
+                               13em 19em #566575,
+                               14em 19em #566575,
+                               15em 19em #566575,
+
+                               -4em 20em #566575,
+                               -3em 20em #566575,
+                               -2em 20em #566575,
+                               -1em 20em #566575,
+                                0em 20em #566575,
+
+                                1em 20em #405061,
+                                2em 20em #405061,
+                                3em 20em #405061,
+                                
+                                4em 20em #566575,
+                                
+                                5em 20em #2F2F2F,
+                                6em 20em #2F2F2F,
+                                7em 20em #2F2F2F,
+                                8em 20em #2F2F2F,
+
+                                
+                                9em 20em #CA1A18,
+                                10em 20em #CA1A18,
+                                11em 20em #CA1A18,
+
+                                12em 20em #566575,
+                                13em 20em #566575,
+                                14em 20em #566575,
+                                15em 20em #566575,
+
+                                -4em 21em #405061,
+
+                                -3em 21em #566575,
+                                -2em 21em #566575,
+                                -1em 21em #566575,
+
+                                0em 21em #405061,
+                                1em 21em #405061,
+                                2em 21em #405061,
+                                3em 21em #405061,
+
+                                4em 21em #566575,
+
+                                5em 21em #2F2F2F,
+                                6em 21em #2F2F2F,
+                                7em 21em #2F2F2F,
+                                8em 21em #2F2F2F,
+
+                                9em 21em #CA1A18,
+                                10em 21em #CA1A18,
+
+                                11em 21em #405061,
+                                12em 21em #405061,
+                                13em 21em #405061,
+
+                                14em 21em #566575,
+
+                              
+                                -3em 22em #405061,
+                                -2em 22em #405061,
+                                -1em 22em #405061,
+                                 0em 22em #405061,
+                                 1em 22em #405061,
+                                 2em 22em #405061,
+                                 3em 22em #405061,
+                                 
+                                 4em 22em #566575,
+                                 
+                                 5em 22em #2F2F2F,
+                                 6em 22em #2F2F2F,
+                                 7em 22em #2F2F2F,
+                                
+                                 8em 22em #CA1A18,
+                                 9em 22em #CA1A18,
+                                 10em 22em #CA1A18,
+                                 
+                                 11em 22em #405061,
+                                 12em 22em #405061,
+                                 13em 22em #405061,
+
+                                 -2em 23em #405061,
+                                 -1em 23em #405061,
+                                  0em 23em #405061,
+                                  1em 23em #405061,
+
+                                  2em 23em #2A333F,
+                                  3em 23em #2A333F,
+                                  4em 23em #2A333F,
+
+                                  5em 23em #2F2F2F,
+                                  6em 23em #2F2F2F,
+                                  7em 23em #2F2F2F,
+
+                                  8em 23em #CA1A18,
+                                  9em 23em #CA1A18,
+                                  10em 23em #CA1A18,
+
+                                  11em 23em #405061,
+                                  12em 23em #405061,
+
+                                  
+                                  -1em 24em #2A333F,
+                                  0em 24em #2A333F,
+                                  1em 24em #2A333F,
+
+                                  2em 24em #566575,
+                                  3em 24em #566575,
+                                  4em 24em #566575,
+                                  5em 24em #566575,
+
+                                  6em 24em #2F2F2F,
+                                  7em 24em #2F2F2F,
+
+                                  8em 24em #484848,
+
+                                  9em 24em #CA1A18,
+                                  10em 24em #CA1A18,
+
+                                  11em 24em #2A333F,
+                                  12em 24em #2A333F,
+
+                                  -2em 25em #566575,
+                                  -1em 25em #566575,
+                                   0em 25em #566575,
+                                   1em 25em #566575,
+                                   2em 25em #566575,
+                                   3em 25em #566575,
+                                   4em 25em #566575,
+                                   5em 25em #566575,
+
+                                   6em 25em #F42221,
+
+                                   7em 25em #2F2F2F,
+
+                                   8em 25em #484848,
+                                   9em 25em #484848,
+
+                                   10em 25em #CA1A18,
+
+                                   11em 25em #405061,
+                                   12em 25em #405061,
+
+                                   -3em 26em #566575,
+                                   -2em 26em #566575,
+                                   -1em 26em  #566575,
+                                    0em 26em #566575,
+                                    1em 26em #566575,
+                                    2em 26em #566575,
+                                    3em 26em #566575,
+                                    4em 26em #566575,
+                                    5em 26em #566575,
+
+                                    6em 26em #F42221,
+
+                                    7em 26em #2F2F2F,
+
+                                    8em 26em #484848,
+                                    9em 26em #484848,
+
+                                    10em 26em #CA1A18,
+
+                                    11em 26em #405061,
+
+
+                                    -3em 27em #566575,
+                                    -2em 27em #566575,
+                                    -1em 27em #566575,
+                                     0em 27em #566575,
+                                     1em 27em #566575,
+                                     2em 27em #566575,
+                                     3em 27em #566575,
+                                     4em 27em #566575,
+                                     5em 27em #566575,
+
+                                     6em 27em #F42221,
+
+                                     7em 27em #2F2F2F,
+                                     8em 27em #2F2F2F,
+
+                                     9em 27em #484848,
+
+                                     10em 27em #CA1A18,
+                                     11em 27em #CA1A18,
+
+                                     -4em 28em #566575,
+                                     -3em 28em #566575,
+                                     -2em 28em #566575,
+                                     -1em 28em #566575,
+                                      0em 28em #566575,
+                                      1em 28em #566575,
+                                      2em 28em #566575,
+                                      3em 28em #566575,
+                                      4em 28em #566575,
+                                      5em 28em #566575,
+                                      6em 28em #566575,
+
+                                      7em 28em #F42221,
+
+                                      8em 28em #2F2F2F,
+
+                                      9em 28em #484848,
+                                      10em 28em #484848,
+
+                                      11em 28em #CA1A18,
+
+                                      -4em 29em #566575,
+                                      -3em 29em #566575,
+                                      -2em 29em #566575,
+                                      -1em 29em #566575,
+                                      0em 29em #566575,
+                                      1em 29em #566575,
+                                      2em 29em #566575,
+                                      3em 29em #566575,
+                                      4em 29em #566575,
+                                      5em 29em #566575,
+                                      6em 29em #566575,
+
+                                      7em 29em #F42221,
+
+                                      8em 29em #2F2F2F,
+
+                                      9em 29em #484848,
+                                      10em 29em #484848,
+
+                                      11em 29em #CA1A18,
+
+                                      -5em 30em #566575,
+                                      -4em 30em #566575,
+                                      -3em 30em #566575,
+                                      -2em 30em #566575,
+                                      
+                                      -1em 30em #405061,
+
+                                      0em 30em #566575,
+                                      1em 30em #566575,
+                                      2em 30em #566575,
+                                      3em 30em #566575,
+                                      4em 30em #566575,
+                                      5em 30em #566575,
+                                      6em 30em #566575,
+
+                                      7em 30em #F42221,
+
+                                      8em 30em #2F2F2F,
+
+                                      9em 30em #484848,
+                                      10em 30em #484848,
+
+                                      11em 30em #CA1A18,
+
+                                      -5em 31em #566575,
+                                      -4em 31em #566575,
+                                      -3em 31em #566575,
+                                      -2em 31em #566575,
+
+                                      -1em 31em #405061,
+
+                                      0em 31em #566575,
+                                      1em 31em #566575,
+                                      2em 31em #566575,
+                                      3em 31em #566575,
+                                      4em 31em #566575,
+                                      5em 31em #566575,
+                                      6em 31em #566575,
+
+                                      7em 31em #F42221,
+
+                                      8em 31em #2F2F2F,
+
+                                      9em 31em #484848,
+                                      10em 31em #484848,
+
+                                      11em 31em #CA1A18,
+                                      12em 31em #CA1A18,
+
+                                      -6em 32em #566575,
+                                      -5em 32em #566575,
+                                      -4em 32em #566575,
+                                      -3em 32em #566575,
+                                      -2em 32em #566575,
+
+                                      -1em 32em #405061,
+
+                                      0em 32em #566575,
+                                      1em 32em #566575,
+                                      2em 32em #566575,
+                                      3em 32em #566575,
+                                      4em 32em #566575,
+                                      5em 32em #566575,
+                                      6em 32em #566575,
+
+                                      7em 32em #F42221,
+
+                                      8em 32em #2F2F2F,
+
+                                      9em 32em #484848,
+                                     10em 32em #484848,
+
+                                     11em 32em #CA1A18,
+                                     12em 32em #CA1A18,
+
+                                     -6em 33em #566575,
+                                     -5em 33em #566575,
+                                     -4em 33em #566575,
+                                     -3em 33em #566575,
+                                     
+                                     -2em 33em #405061,
+
+                                     -1em 33em #2A333F,
+
+                                     0em 33em #566575,
+                                     1em 33em #566575,
+                                     2em 33em #566575,
+                                     3em 33em #566575,
+                                     4em 33em #566575,
+                                     5em 33em #566575,
+                                     6em 33em #566575,
+                                     7em 33em #566575,
+
+                                     8em 33em #F42221,
+
+                                     9em 33em #2F2F2F,
+
+                                     10em 33em #484848,
+                                     
+                                     11em 33em #CA1A18,
+                                     12em 33em #CA1A18,
+
+
+                                     -7em 34em #405061,
+
+                                     -6em 34em #566575,
+                                     -5em 34em #566575,
+                                     -4em 34em #566575,
+
+                                     -3em 34em #2A333F,
+                                     -2em 34em #2A333F,
+                                     -1em 34em #2A333F,
+                                     0em 34em #2A333F,
+
+                                     1em 34em #405061,
+
+                                     2em 34em #566575,
+                                     3em 34em #566575,
+
+                                     4em 34em #405061,
+                                     
+                                     
+                                     5em 34em #566575,
+                                     6em 34em #566575,
+                                     7em 34em #566575,
+
+                                     8em 34em #F42221,
+
+                                     9em 34em #2F2F2F,
+
+                                     10em 34em #484848,
+
+                                     11em 34em #CA1A18,
+                                     12em 34em #CA1A18,
+
+                                     -7em 35em #405061,
+
+                                     -6em 35em #566575,
+                                     -5em 35em #566575,
+
+                                     -4em 35em #2A333F,
+
+                                     -3em 35em #566575,
+                                     -2em 35em #566575,
+                                     -1em 35em #566575,
+                                     0em 35em #566575,
+
+                                     1em 35em #2A333F,
+
+                                     2em 35em #566575,
+                                     3em 35em #566575,
+                                     4em 35em #566575,
+                                     
+                                     5em 35em #405061,
+
+                                     6em 35em #566575,
+                                     7em 35em #566575,
+
+                                     8em 35em #F42221,
+
+                                     9em 35em #2F2F2F,
+
+
+                                     10em 35em #484848,
+
+                                     11em 35em #CA1A18,
+                                     12em 35em #CA1A18,
+
+
+                                     -7em 36em #405061,
+                                     -6em 36em #405061,
+
+                                     -5em 36em #566575,
+                                     -4em 36em #566575,
+                                     -3em 36em #566575,
+                                     -2em 36em #566575,
+                                     -1em 36em #566575,
+                                     0em 36em #566575,
+
+                                     1em 36em #2A333F,
+
+                                     2em 36em #566575,
+                                     3em 36em #566575,
+                                     4em 36em #566575,
+
+                                     5em 36em #405061,
+
+                                     6em 36em #566575,
+                                     7em 36em #566575,
+
+                                     8em 36em #F42221,
+                                     
+                                     9em 36em #2F2F2F,
+
+                                     10em 36em #484848,
+
+                                     11em 36em #CA1A18,
+                                     12em 36em #CA1A18,
+
+                                     -7em 37em #405061,
+                                     -6em 37em #405061,
+                                     -5em 37em #405061,
+
+                                     -4em 37em #566575,
+                                     -3em 37em #566575,
+                                     -2em 37em #566575,
+                                     -1em 37em #566575,
+
+                                     0em 37em #405061,
+
+                                     1em 37em #2A333F,
+
+                                     2em 37em #566575,
+                                     3em 37em #566575,
+                                     
+                                     4em 37em #405061,
+                                     5em 37em #405061,
+
+                                     6em 37em #566575,
+                                     7em 37em #566575,
+
+                                     8em 37em #F42221,
+
+                                     9em 37em #2F2F2F,
+                                    10em 37em #2F2F2F,
+
+                                     
+                                    11em 37em #CA1A18,
+                                    12em 37em #CA1A18,
+
+                                    13em 37em #F42221,
+
+                                    -7em 38em #405061, 
+                                    -6em 38em #405061,
+                                    -5em 38em #405061,
+                                    -4em 38em #405061,
+                                    -3em 38em #405061,
+                                    -2em 38em #405061,
+                                    -1em 38em #405061,
+                                    0em 38em #405061,
+                                     
+                                    
+                                    
+                                    1em 38em #2A333F,
+
+                                    2em 38em #566575,
+                                    3em 38em #566575,
+
+                                    4em 38em #405061,
+                                    5em 38em #405061,
+
+                                    6em 38em #566575,
+                                    7em 38em #566575,
+                                    8em 38em #566575,
+
+                                    9em 38em #F42221,
+
+                                    10em 38em #2F2F2F,
+                                    11em 38em #2F2F2F,
+
+                                    12em 38em #CA1A18,
+
+                                    13em 38em #F42221,
+
+
+
+                                    -6em 39em #2A333F,
+
+                                    -5em 39em #405061,
+                                    -4em 39em #405061,
+                                    -3em 39em #405061,
+                                    -2em 39em #405061,
+                                    -1em 39em #405061,
+                                    0em 39em #405061,
+
+                                    1em 39em #2A333F,
+
+                                    2em 39em #405061,
+                                    3em 39em #405061,
+                                    4em 39em #405061,
+                                    5em 39em #405061,
+
+                                    6em 39em #566575,
+                                    7em 39em #566575,
+                                    8em 39em #566575,
+
+                                    9em 39em #F42221,
+
+                                    10em 39em #2F2F2F,
+                                    11em 39em #2F2F2F,
+
+                                    12em 39em #CA1A18,
+
+                                    13em 39em #F42221,
+
+
+                                    -5em 40em #2A333F,
+                                    -4em 40em #2A333F,
+                                    -3em 40em #2A333F,
+                                    -2em 40em #2A333F,
+                                    -1em 40em #2A333F,
+                                    0em 40em #2A333F,
+
+                                    1em 40em #405061,
+                                    2em 40em #405061,
+                                    3em 40em #405061,
+                                    4em 40em #405061,
+
+                                    3em 40em #566575,
+                                    4em 40em #566575,
+                                    5em 40em #566575,
+                                    6em 40em #566575,
+                                    7em 40em #566575,
+                                    8em 40em #566575,
+
+                                    9em 40em #F42221,
+
+                                    10em 40em #2F2F2F,
+                                    11em 40em #2F2F2F,
+
+                                    12em 40em #CA1A18,
+
+                                    13em 40em #F42221,
+
+
+                                    -4em 41em #566575,
+                                    -3em 41em #566575,
+                                    -2em 41em #566575,
+                                    -1em 41em #566575,
+                                    0em 41em #566575,
+                                    1em 41em #566575,
+                                    2em 41em #566575,
+                                    3em 41em #566575,
+                                    4em 41em #566575,
+                                    5em 41em #566575,
+                                    6em 41em #566575,
+                                    7em 41em #566575,
+                                    8em 41em #566575,
+
+                                    9em 41em #2A333F,
+
+                                    10em 41em #2F2F2F,
+                                    11em 41em #2F2F2F,
+
+                                    12em 41em #CA1A18,
+                                    
+                                    
+                                    
+                                    13em 41em #F42221,
+
+
+                                    -4em 42em #566575,
+                                    -3em 42em #566575,
+                                    -2em 42em #566575,
+                                    -1em 42em #566575,
+                                    0em 42em #566575,
+                                    1em 42em #566575,
+                                    2em 42em #566575,
+                                    3em 42em #566575,
+                                    4em 42em #566575,
+                                    5em 42em #566575,
+                                    6em 42em #566575,
+
+                                    7em 42em #2A333F,
+                                    8em 42em #2A333F,
+
+                                    9em 42em #566575,
+
+                                    10em 42em #2F2F2F,
+                                    11em 42em #2F2F2F,
+
+                                    12em 42em #CA1A18,
+                                    
+                                    13em 42em #F42221,
+                                    14em 42em #F42221,
+
+                                    -4em 43em #405061,
+                                    
+                                    
+                                    -3em 43em #566575,
+                                    -2em 43em #566575,
+                                    -1em 43em #566575,
+                                    0em 43em #566575,
+                                    1em 43em #566575,
+                                    2em 43em #566575,
+                                    3em 43em #566575,
+                                    4em 43em #566575,
+
+                                    5em 43em #2A333F,
+                                    6em 43em #2A333F,
+
+                                    7em 43em #566575,
+                                    8em 43em #566575,
+                                    9em 43em #566575,
+                                    
+
+                                    10em 43em #2F2F2F,
+                                    11em 43em #2F2F2F,
+                                    12em 43em #2F2F2F,
+
+                                    13em 43em #F42221,
+                                    14em 43em #F42221,
+
+
+                                    -5em 44em #405061,
+    
+    
+                                    -4em 44em #566575,
+
+                                    -3em 44em #2A333F,
+                                    -2em 44em #2A333F,
+                                    -1em 44em #2A333F,
+                                    0em 44em #2A333F,
+                                    1em 44em #2A333F,
+                                    2em 44em #2A333F,
+                                    3em 44em #2A333F,
+                                    4em 44em #2A333F,
+
+                                    5em 44em #566575,
+                                    6em 44em #566575,
+                                    7em 44em #566575,
+
+                                    8em 44em #405061,
+                                    9em 44em #405061,
+
+                                    10em 44em #2F2F2F,
+                                    11em 44em #2F2F2F,
+                                    12em 44em #2F2F2F,
+
+                                    13em 44em #CA1A18,
+
+                                    14em 44em #F42221,
+
+                                    -5em 45em #405061,
+                                    -4em 45em #405061,
+
+                                    -3em 45em #566575,
+                                    -2em 45em #566575,
+                                    -1em 45em #566575,
+                                    0em 45em #566575,
+                                    1em 45em #566575,
+                                    2em 45em #566575,
+                                    3em 45em #566575,
+                                    4em 45em #566575,
+                                    5em 45em #566575,
+                                 
+
+                                    6em 45em #405061,
+                                    7em 45em #405061,
+                                    8em 45em #405061,
+
+                                    9em 45em #2F2F2F,
+                                    10em 45em #2F2F2F,
+                                    11em 45em #2F2F2F,
+                                    12em 45em #2F2F2F,
+
+                                    13em 45em #CA1A18,
+                                    14em 45em #F42221,
+
+                                    -5em 46em #405061,
+                                    -4em 46em #405061,
+                                    -3em 46em #405061,
+                                    -2em 46em #405061,
+                                    -1em 46em #405061,
+                                    0em 46em #405061,
+                                    1em 46em #405061,
+                                    2em 46em #405061,
+                                    3em 46em #405061,
+                                    4em 46em #405061,
+                                    5em 46em #405061,
+                                    6em 46em #405061,
+
+                                    7em 46em #CA1A18,
+                                    8em 46em #CA1A18,
+
+                                    9em 46em #2F2F2F,
+                                    10em 46em #2F2F2F,
+                                    11em 46em #2F2F2F,
+
+                                    12em 46em #E7E7E7,
+
+                                    13em 46em #CA1A18,
+
+                                    14em 46em #F42221,
+
+                                    -4em 47em #405061,
+                                    -3em 47em #405061,
+                                    -2em 47em #405061,
+                                    -1em 47em #405061,
+                                    0em 47em #405061,
+                                    1em 47em #405061,
+                                    2em 47em #405061,
+                                    3em 47em #405061,
+                                    4em 47em #405061,
+
+                                    5em 47em #CA1A18,
+                                    6em 47em #CA1A18,
+
+                                    7em 47em #F42221,
+                                    8em 47em #F42221,
+
+                                    9em 47em #E7E7E7,
+                                    10em 47em #E7E7E7,
+                                    11em 47em #E7E7E7,
+
+                                    12em 47em #A9A9A9,
+
+                                    13em 47em #2F2F2F,
+
+
+                                    -4em 48em #2F2F2F,
+                                    
+                                    -3em 48em #CA1A18,
+                                    -2em 48em #CA1A18,
+                                    -1em 48em #CA1A18,
+                                    0em 48em #CA1A18,
+                                    1em 48em #CA1A18,
+                                    2em 48em #CA1A18,
+                                    3em 48em #CA1A18,
+
+                                    4em 48em #F42221,
+                                    5em 48em #F42221,
+                                    6em 48em #F42221,
+
+                                    7em 48em #A9A9A9,
+                                    8em 48em #A9A9A9,
+                                    9em 48em #A9A9A9,
+                                    10em 48em #A9A9A9,
+                                    11em 48em #A9A9A9,
+
+                                    12em 48em #484848,
+
+                                    13em 48em #2F2F2F,
+
+
+                                    -4em 49em #484848,
+                                    -3em 49em #484848,
+                                    -2em 49em #484848,
+                                    -1em 49em #484848,
+                                    0em 49em #484848,
+                                    1em 49em #484848,
+                                    2em 49em #484848,
+                                    3em 49em #484848,
+                                    4em 49em #484848,
+                                    5em 49em #484848,
+                                    6em 49em #484848,
+                                    7em 49em #484848,
+
+                                    8em 49em #2F2F2F,
+                                    9em 49em #2F2F2F,
+
+                                    10em 49em #484848,
+                                    11em 49em #484848,
+                                    12em 49em #484848,
+
+                                    13em 49em #2F2F2F,
+
+                                    -4em 50em #484848,
+                                    -3em 50em #484848,
+                                    -2em 50em #484848,
+                                    -1em 50em #484848,
+                                    0em 50em #484848,
+                                    1em 50em #484848,
+                                    2em 50em #484848,
+                                    3em 50em #484848,
+                                    4em 50em #484848,
+                                    5em 50em #484848,
+                                    6em 50em #484848,
+                                    7em 50em #484848,
+
+                                    8em 50em #2F2F2F,
+                                    9em 50em #2F2F2F,
+
+                                    10em 50em #484848,
+                                    11em 50em #484848,
+                                    12em 50em #484848,
+
+                                    13em 50em #2F2F2F,
+
+
+                                    -4em 51em #484848,
+                                    -3em 51em #484848,
+                                    -2em 51em #484848,
+                                    -1em 51em #484848,
+                                    0em 51em #484848,
+                                    1em 51em #484848,
+                                    2em 51em #484848,
+                                    3em 51em #484848,
+                                    4em 51em #484848,
+                                    5em 51em #484848,
+                                    6em 51em #484848,
+                                    7em 51em #484848,
+
+                                    8em 51em #2F2F2F,
+                                    9em 51em #2F2F2F,
+
+                                    10em 51em #484848,
+                                    11em 51em #484848,
+                                    12em 51em #484848,
+
+                                    13em 51em #2F2F2F,
+
+
+                                    -4em 52em #484848,
+                                    -3em 52em #484848,
+                                    -2em 52em #484848,
+                                    -1em 52em #484848,
+                                    0em 52em #484848,
+                                    1em 52em #484848,
+                                    2em 52em #484848,
+                                    3em 52em #484848,
+                                    4em 52em #484848,
+                                    5em 52em #484848,
+                                    6em 52em #484848,
+                                    7em 52em #484848,
+
+                                    8em 52em #2F2F2F,
+                                    9em 52em #2F2F2F,
+
+                                    10em 52em #484848,
+                                    11em 52em #484848,
+                                    12em 52em #484848,
+
+                                    13em 52em #2F2F2F,
+                                    14em 52em #2F2F2F,
+
+
+
+                                    -4em 53em #484848,
+                                    -3em 53em #484848,
+                                    -2em 53em #484848,
+                                    -1em 53em #484848,
+                                    0em 53em #484848,
+                                    1em 53em #484848,
+                                    2em 53em #484848,
+                                    3em 53em #484848,
+                                    4em 53em #484848,
+                                    5em 53em #484848,
+                                    6em 53em #484848,
+                                    7em 53em #484848,
+
+                                    8em 53em #2F2F2F,
+                                    9em 53em #2F2F2F,
+
+                                    10em 53em #484848,
+                                    11em 53em #484848,
+                                    12em 53em #484848,
+
+                                    13em 53em #2F2F2F,
+                                    14em 53em #2F2F2F,
+
+                                    -4em 54em #484848,
+                                    -3em 54em #484848,
+                                    -2em 54em #484848,
+                                    -1em 54em #484848,
+                                    0em 54em #484848,
+                                    1em 54em #484848,
+                                    2em 54em #484848,
+                                    3em 54em #484848,
+                                    4em 54em #484848,
+                                    5em 54em #484848,
+                                    6em 54em #484848,
+                                    7em 54em #484848,
+
+                                    8em  54em #2F2F2F,
+                                    9em 54em #2F2F2F,
+
+                                    10em 54em #484848,
+                                    11em 54em #484848,
+                                    12em 54em #484848,
+
+                                    13em 54em #2F2F2F,
+                                    14em 54em #2F2F2F,
+
+                                    -5em 55em #484848,
+                                    -4em 55em #484848,
+                                    -3em 55em #484848,
+                                    -2em 55em #484848,
+                                    -1em 55em #484848,
+                                    0em 55em #484848,
+                                    1em 55em #484848,
+                                    2em 55em #484848,
+                                    3em 55em #484848,
+                                    4em 55em #484848,
+                                    5em 55em #484848,
+                                    6em 55em #484848,
+                                    
+
+                                    7em 55em #2F2F2F,
+                                    8em 55em #2F2F2F,
+
+                                    9em 55em #484848,
+                                    10em 55em #484848,
+                                    11em 55em #484848,
+
+                                    12em 55em #2F2F2F,
+                                    13em 55em #2F2F2F,
+                                    14em 55em #2F2F2F,
+
+                                    -5em 56em #484848,
+                                    -4em 56em #484848,
+                                    -3em 56em #484848,
+                                    -2em 56em #484848,
+                                    -1em 56em #484848,
+                                    0em 56em #484848,
+                                    1em 56em #484848,
+                                    2em 56em #484848,
+                                    3em 56em #484848,
+                                    4em 56em #484848,
+                                    5em 56em #484848,
+                                    6em 56em #484848,
+
+                                    7em 56em #2F2F2F,
+                                    8em 56em #2F2F2F,
+
+                                    9em 56em #484848,
+                                    10em 56em #484848,
+                                    11em 56em #484848,
+
+                                    12em 56em #2F2F2F,
+                                    13em 56em #2F2F2F,
+                                    14em 56em #2F2F2F,
+
+                                    -5em 57em #484848,
+                                    -4em 57em #484848,
+                                    -3em 57em #484848,
+                                    -2em 57em #484848,
+                                    -1em 57em #484848,
+                                    0em 57em #484848,
+                                    1em 57em #484848,
+                                    2em 57em #484848,
+                                    3em 57em #484848,
+                                    4em 57em #484848,
+                                    5em 57em #484848,
+                                    6em 57em #484848,
+
+                                    7em 57em #2F2F2F,
+                                    8em 57em #2F2F2F,
+
+                                    9em 57em #484848,
+                                    10em 57em #484848,
+                                    11em 57em #484848,
+
+                                    12em 57em #2F2F2F,
+                                    13em 57em #2F2F2F,
+                                    14em 57em #2F2F2F,
+
+                                    -5em 58em #484848,
+                                    -4em 58em #484848,
+                                    -3em 58em #484848,
+                                    -2em 58em #484848,
+                                    -1em 58em #484848,
+                                    0em 58em #484848,
+                                    1em 58em #484848,
+                                    2em 58em #484848,
+                                    3em 58em #484848,
+                                    4em 58em #484848,
+                                    5em 58em #484848,
+                                    6em 58em #484848,
+
+                                    7em 58em #2F2F2F,
+                                    8em 58em #2F2F2F,
+
+
+                                    9em 58em #484848,
+                                    10em 58em #484848,
+                                    11em 58em #484848,
+
+                                    12em 58em #2F2F2F,
+                                    13em 58em #2F2F2F,
+                                    14em 58em #2F2F2F,
+
+
+                                    -5em 59em #484848,
+                                    -4em 59em #484848,
+                                    -3em 59em #484848,
+                                    -2em 59em #484848,
+                                    -1em 59em #484848,
+                                    0em 59em #484848,
+                                    1em 59em #484848,
+                                    2em 59em #484848,
+                                    3em 59em #484848,
+                                    4em 59em #484848,
+                                    5em 59em #484848,
+                                    6em 59em #484848,
+
+                                    7em 59em #2F2F2F,
+                                    8em 59em #2F2F2F,
+
+                                    9em 59em #484848,
+                                    10em 59em #484848,
+                                    11em 59em #484848,
+
+                                    12em 59em #2F2F2F,
+                                    13em 59em #2F2F2F,
+                                    14em 59em #2F2F2F,
+
+                                    -5em 60em #484848,
+                                    -4em 60em #484848,
+                                    -3em 60em #484848,
+                                    -2em 60em #484848,
+                                    -1em 60em #484848,
+                                    0em 60em #484848,
+                                    1em 60em #484848,
+                                    2em 60em #484848,
+                                    3em 60em #484848,
+                                    4em 60em #484848,
+                                    5em 60em #484848,
+                                    6em 60em #484848,
+
+
+                                    7em 60em #2F2F2F,
+                                    8em 60em #2F2F2F,
+
+                                    9em 60em #484848,
+                                    10em 60em #484848,
+                                    11em 60em #484848,
+
+                                    12em 60em #2F2F2F,
+                                    13em 60em #2F2F2F,
+                                    14em 60em #2F2F2F,
+
+                                    -5em 61em #484848,
+                                    -4em 61em #484848,
+                                    -3em 61em #484848,
+                                    -2em 61em #484848,
+                                    -1em 61em #484848,
+                                    0em 61em #484848,
+                                    1em 61em #484848,
+                                    2em 61em #484848,
+                                    3em 61em #484848,
+                                    4em 61em #484848,
+                                    5em 61em #484848,
+                                    6em 61em #484848,
+
+                                    7em 61em #2F2F2F,
+                                    8em 61em #2F2F2F,
+
+                                    9em 61em #484848,
+                                    10em 61em #484848,
+                                    11em 61em #484848,
+
+                                    12em 61em #2F2F2F,
+                                    13em 61em #2F2F2F,
+                                    14em 61em #2F2F2F,
+
+                                    -5em 62em #484848,
+                                    -4em 62em #484848,
+                                    -3em 62em #484848,
+                                    -2em 62em #484848,
+                                    -1em 62em #484848,
+                                    0em 62em #484848,
+                                    1em 62em #484848,
+                                    2em 62em #484848,
+                                    3em 62em #484848,
+                                    4em 62em #484848,
+                                    5em 62em #484848,
+                                    6em 62em #484848,
+
+                                    7em 62em #2F2F2F,
+                                    8em 62em #2F2F2F,
+
+                                    9em 62em #484848,
+                                    10em 62em #484848,
+                                    11em 62em #484848,
+
+                                    12em 62em #2F2F2F,
+                                    13em 62em #2F2F2F,
+                                    14em 62em #2F2F2F,
+
+                                    -5em 63em #484848,
+                                    -4em 63em #484848,
+                                    -3em 63em #484848,
+                                    -2em 63em #484848,
+                                    -1em 63em #484848,
+                                    0em 63em #484848,
+                                    1em 63em #484848,
+                                    2em 63em #484848,
+                                    3em 63em #484848,
+                                    4em 63em #484848,
+                                    5em 63em #484848,
+                                    6em 63em #484848,
+
+                                    7em 63em #2F2F2F,
+
+                                    8em 63em #484848,
+                                    9em 63em #484848,
+                                    10em 63em #484848,
+                                    11em 63em #484848,
+
+                                    12em 63em #2F2F2F,
+                                    13em 63em #2F2F2F,
+                                    14em 63em #2F2F2F,
+
+                                    -5em 64em #484848,
+                                    -4em 64em #484848,
+                                    -3em 64em #484848,
+                                    -2em 64em #484848,
+                                    -1em 64em #484848,
+                                    0em 64em #484848,
+                                    1em 64em #484848,
+                                    
+
+                                    2em 64em #2F2F2F,
+                                    3em 64em #2F2F2F,
+                                    4em 64em #2F2F2F,
+                                    7em 64em #2F2F2F,
+                                    8em 64em #2F2F2F,
+                                    9em 64em #2F2F2F,
+                                    10em 64em #2F2F2F,
+
+                                    0em 65em #2F2F2F,
+                                    1em 65em #2F2F2F,
+                                    2em 65em #2F2F2F,
+                                    3em 65em #2F2F2F,
+                                    4em 65em #2F2F2F,
+                                    7em 65em #2F2F2F,
+                                    8em 65em #2F2F2F,
+                                    9em 65em #2F2F2F,
+                                    10em 65em #2F2F2F,
+
+                                    0em 66em #2F2F2F,
+                                    1em 66em #2F2F2F,
+                                    2em 66em #2F2F2F,
+                                    3em 66em #2F2F2F,
+                                    4em 66em #2F2F2F,
+                                    7em 66em #2F2F2F,
+                                    8em 66em #2F2F2F,
+                                    9em 66em #2F2F2F,
+                                    10em 66em #2F2F2F,
+
+                                    0em 67em #2F2F2F,
+                                    1em 67em #2F2F2F,
+                                    2em 67em #2F2F2F,
+                                    3em 67em #2F2F2F,
+                                    4em 67em #2F2F2F,
+                                    7em 67em #2F2F2F,
+                                    8em 67em #2F2F2F,
+                                    9em 67em #2F2F2F,
+                                    10em 67em #2F2F2F,
+
+                                    0em 68em #2F2F2F,
+                                    1em 68em #2F2F2F,
+                                    2em 68em #2F2F2F,
+                                    3em 68em #2F2F2F,
+                                    4em 68em #2F2F2F,
+                                    7em 68em #2F2F2F,
+                                    8em 68em #2F2F2F,
+                                    9em 68em #2F2F2F,
+                                    10em 68em #2F2F2F,
+
+                                    1em 69em #2F2F2F,
+                                    2em 69em #2F2F2F,
+                                    3em 69em #2F2F2F,
+                                    4em 69em #2F2F2F,
+                                    8em 69em #2F2F2F,
+                                    9em 69em #2F2F2F,
+                                    10em 69em #2F2F2F,
+
+                                    1em 70em #2F2F2F,
+                                    2em 70em #2F2F2F,
+                                    3em 70em #2F2F2F,
+                                    4em 70em #2F2F2F,
+                                    8em 70em #2F2F2F,
+                                    9em 70em #2F2F2F,
+                                    10em 70em #2F2F2F,
+
+                                    2em 71em #2F2F2F,
+                                    3em 71em #2F2F2F,
+                                    4em 71em #2F2F2F,
+                                    8em 71em #2F2F2F,
+                                    9em 71em #2F2F2F,
+
+                                    2em 72em #2F2F2F,
+                                    3em 72em #2F2F2F,
+
+                                    8em 72em #2F2F2F,
+                                    9em 72em #2F2F2F,
+
+                                    2em 73em #2F2F2F,
+                                    3em 73em #2F2F2F,
+
+                                    8em 73em #2F2F2F,
+                                    9em 73em #2F2F2F,
+
+                                    2em 74em #2F2F2F,
+                                    3em 74em #2F2F2F,
+
+                                    8em 74em #2F2F2F,
+                                    9em 74em #2F2F2F,
+
+                                    0em 75em #F42221,
+                                    1em 75em #F42221,
+
+                                    2em 75em #2F2F2F,
+                                    3em 75em #2F2F2F,
+
+                                    4em 75em #A9A9A9,
+                                    5em 75em #A9A9A9,
+                                    6em 75em #A9A9A9,
+
+                                    7em 75em #F42221,
+                                    8em 75em #F42221,
+
+                                    9em 75em #2F2F2F,
+                                    10em 75em #2F2F2F,
+
+                                    11em 75em #A9A9A9,
+                                    12em 75em #A9A9A9,
+                                    13em 75em #A9A9A9,
+
+                                    0em 76em #F42221,
+                                    1em 76em #F42221,
+                                    2em 76em #F42221,
+
+                                    3em 76em #A9A9A9,
+
+                                    4em 76em #E7E7E7,
+                                    5em 76em #E7E7E7,
+
+                                    6em 76em #A9A9A9,
+
+                                    7em 76em #CA1A18,
+                                    8em 76em #CA1A18,
+
+                                    9em 76em #F42221,
+
+                                    10em 76em #A9A9A9,
+
+                                    11em 76em #E7E7E7,
+                                    12em 76em #E7E7E7,
+
+                                    13em 76em #A9A9A9,
+
+
+                                    0em 77em #CA1A18,
+                                    1em 77em #CA1A18,
+                                    2em 77em #CA1A18,
+
+                                    3em 77em #F42221,
+
+                                    4em 77em #E7E7E7,
+
+                                    5em 77em #2F2F2F,
+
+                                    6em 77em #F42221,
+
+                                    7em 77em #CA1A18,
+                                    8em 77em #CA1A18,
+                                    9em 77em #CA1A18,
+
+                                    10em 77em #F42221,
+                                    
+
+                                    11em 77em #E7E7E7,
+
+                                    12em 77em #2F2F2F,
+
+                                    13em 77em #F42221,
+
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    1em 78em #CA1A18,
+
+
+                                    2em 78em #E7E7E7,
+
+                                    3em 78em #F42221,
+
+                                    4em 78em #2F2F2F,
+
+                                    5em 78em #E7E7E7,
+                                    6em 78em #E7E7E7,
+
+                                    7em 78em #CA1A18,
+
+                                    8em 78em #A9A9A9,
+                                    9em 78em #A9A9A9,
+
+                                    10em 78em #F42221,
+
+                                    11em 78em #2F2F2F,
+
+                                    12em 78em #E7E7E7,
+                                    13em 78em #E7E7E7,
+
+                                    14em 78em #CA1A18,
+
+                                    15em 78em #A9A9A9,
+                                    16em 78em #A9A9A9,
+
+
+
+                                    1em 79em #CA1A18,
+
+                                    2em 79em #A9A9A9,
+
+                                    3em 79em #E7E7E7,
+
+                                    4em 79em #484848,
+
+                                    5em 79em #F42221,
+
+                                    6em 79em #E7E7E7,
+                                    7em 79em #E7E7E7,
+                                    8em 79em #E7E7E7,
+                                    9em 79em #E7E7E7,
+
+                                    10em 79em #A9A9A9,
+
+                                    11em 79em #F42221,
+                                    12em 79em #F42221,
+
+                                    13em 79em #A9A9A9,
+                                    14em 79em #A9A9A9,
+
+                                    15em 79em #E7E7E7,
+                                    16em 79em #E7E7E7,
+
+                                    17em 79em #A9A9A9,
+
+
+                                    1em 80em #CA1A18,
+                                    2em 80em #CA1A18,
+                                    3em 80em #CA1A18,
+                                    
+                                    4em 80em #2F2F2F,
+
+                                    5em 80em #F42221,
+                                    6em 80em #F42221,
+                                    7em 80em #F42221,
+                                    8em 80em #F42221,
+                                    9em 80em #F42221,
+
+                                    10em 80em #CA1A18,
+                                    11em 80em #CA1A18,
+
+                                    12em 80em #F42221,
+                                    13em 80em #F42221,
+                                    14em 80em #F42221,
+                                    15em 80em #F42221,
+                                    16em 80em #F42221,
+
+                                    17em 80em #CA1A18,
+
+
+                                    -1em 81em #2F2F2F,
+
+                                    0em 81em #484848,
+                                    1em 81em #484848,
+
+                                    2em 81em #2F2F2F,
+                                    3em 81em #2F2F2F,
+
+                                    4em 81em #A9A9A9,
+                                    5em 81em #A9A9A9,
+
+                                    6em 81em #E7E7E7,
+                                    7em 81em #E7E7E7,
+                                    8em 81em #E7E7E7,
+                                    9em 81em #E7E7E7,
+
+                                    10em 81em #A9A9A9,
+                                    11em 81em #A9A9A9,
+                                    12em 81em #A9A9A9,
+
+                                    13em 81em #E7E7E7,
+                                    14em 81em #E7E7E7,
+                                    15em 81em #E7E7E7,
+                                    16em 81em #E7E7E7,
+
+                                    17em 81em #A9A9A9;
+
+
+
+
+
+
+
+
+
+                                    
+
+
+
+                                    
+
+
+
+
+
+
+
+                                    
+
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    
+
+
+                                    
+                                    
+
+
+
+
+
+
+
+
+                                    
+                                    
+
+
+
+
+
+                                    
+
+
+
+                                   
+
+
+
+
+                                    
+
+
+
+                                    
+
+
+                                   
+
+
+                                    
+
+
+
+
+                                    
+                                    
+
+                                    
+
+
+                            
+
+
+
+                                    
+
+                                    
+
+
+
+
+
+                                    
+
+
+
+
+
+
+
+
+
+                                    
+
+                                    
+
+                                    
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+                                    
+
+                                     
+
+
+
+
+                                     
+
+
+
+
+
+
+
+                                     
+
+                                    
+
+
+
+
+
+                                    
+
+                                  
+                                 
+
+                                
+
+                                
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+                       
+
+                       
+
+                        
+                
+                           
+}
+
+
+
+                 
+
+
+
+           
+        
+
+            
+            
+            
+           
+            
+            
+
+
+            
+
+
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+
+            
+            
+
+
+
+            
+
+
+             
+
+
+
+
+
+
+
+
+
+
+            
+            
+                
+            
+
+                
+                
